@@ -2,7 +2,7 @@
 
 
 mkdir -p data
-datasets=("AE_A13_bretelle_5" "AI_A1_bretelle_8" "Alesia" "Amsterdam" "Auber")
+datasets=("AE_A13_bretelle_5"  "Alesia" "Amsterdam" "Auber")
 for label in "${datasets[@]}"
 do
     file="data/${label}.csv"
