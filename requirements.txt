@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+statsmodels
+scikit-learn
+pmdarima
+tensorflow
+python-dateutil
+missingno
+tsfresh
+jupyterlab
