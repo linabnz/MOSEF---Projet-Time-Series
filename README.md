@@ -48,6 +48,6 @@ Pas besoin d’installation ! Accédez au notebook rendu en HTML via GitHub Page
 
 Merci à toutes les personnes ayant contribué à ce projet !  
 
-- 👩‍💻[**Emma Eberle**](https://github.com/alice-dupont)   
+- 👩‍💻[**Emma Eberle**](https://github.com/emmaebrl)   
 - 👩‍💻[**Sharon Chemmama**](https://github.com/jean-martin)  
-- 👩‍💻[**Lina Benzemma**](https://github.com/sophie-leroy)  
+- 👩‍💻[**Lina Benzemma**](https://github.com/linabnz)  
