@@ -1,5 +1,5 @@
 
-readme_content = """# 🚗 **Prédiction du Volume de Trafic sur l'I-94 (Minneapolis-St Paul)**
+# 🚗 **Prédiction du Volume de Trafic sur l'I-94 (Minneapolis-St Paul)**
 
 Ce projet vise à analyser et prédire le volume du trafic en utilisant des techniques avancées de Machine Learning et Deep Learning. L'objectif est d'améliorer la précision des prévisions en exploitant un pipeline complet de traitement des données.
 ---
