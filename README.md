@@ -15,17 +15,23 @@ Ce projet vise à analyser et prédire le volume du trafic en utilisant des tech
 ---
 
 ## 📦 Installation
+### 🛠 Option 1 : Cloner le dépôt et exécuter localement  
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/utilisateur/nom-du-projet.git
-   cd nom-du-projet 
+   git clone https://github.com/linabnz/MOSEF---Projet-Time-Series.git
      ```
 2. **Installer les dépendances**
    ```bash
    pip install -r requirements.txt
     ```
-3. **Executer le notebook** 
+3. **Executer le notebook : prediciton_du_traffic_routier** 
+### 🌍 Option 2 : Accéder directement à la page en ligne  
+
+Pas besoin d’installation ! Accédez au notebook rendu en HTML via GitHub Pages :  
+
+👉 [prediction_du_traffic_routier.html](https://linabnz.github.io/MOSEF---Projet-Time-Series/prediction_du_traffic_routier.html)  
+
 
 ##  Technologies Utilisées
 
