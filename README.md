@@ -1,34 +1,36 @@
 
-# 🚗 **Prédiction du Volume de Trafic sur l'I-94 (Minneapolis-St Paul)**
+#  **Traffic Volume Prediction on I-94 (Minneapolis–St Paul)**
 
-Ce projet vise à analyser et prédire le volume du trafic en utilisant des techniques avancées de Machine Learning et Deep Learning. L'objectif est d'améliorer la précision des prévisions en exploitant un pipeline complet de traitement des données.
+This project aims to analyze and predict traffic volume using advanced Machine Learning and Deep Learning techniques.  
+The objective is to improve forecasting accuracy by leveraging a complete end-to-end data processing pipeline.
 ---
 
-## 🚀 Fonctionnalités
+##  Features
 
--  Pré-traitement des données (nettoyage, gestion des valeurs manquantes, encodage)
--  Feature Engineering (sélection et extraction des caractéristiques pertinentes)
--  Modélisation Machine Learning (Random Forest, LightGBM, XGBoost)
--  Modélisation Deep Learning (CNN, LSTM pour la gestion des séries temporelles)
--  Visualisation des résultats et interprétabilité des modèles
+- Data preprocessing (cleaning, handling missing values, encoding)
+- Feature Engineering (selection and extraction of relevant features)
+- Machine Learning models (Random Forest, LightGBM, XGBoost)
+- Deep Learning models (CNN, LSTM for time-series forecasting)
+- Visualization of results and model interpretability
 
 ---
 
-## 📦 Installation
-### 🛠 Option 1 : Cloner le dépôt et exécuter localement  
+## Installation
 
-1. **Cloner le dépôt**
+### 🛠 Option 1: Clone the repository and run locally
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/linabnz/MOSEF---Projet-Time-Series.git
-     ```
-2. **Installer les dépendances**
+
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
     ```
-3. **Executer le notebook : prediciton_du_traffic_routier** 
-### 🌍 Option 2 : Accéder directement à la page en ligne  
+3. **Run the notebook:: prediciton_du_traffic_routier** 
+### Option 2: Access the project online
 
-Pas besoin d’installation ! Accédez au notebook rendu en HTML via GitHub Pages :  
+No installation required! View the HTML-rendered notebook through GitHub Pages:
 
 👉 [prediction_du_traffic_routier.html](https://linabnz.github.io/MOSEF---Projet-Time-Series/prediction_du_traffic_routier.html)  
 
@@ -46,8 +48,8 @@ Pas besoin d’installation ! Accédez au notebook rendu en HTML via GitHub Page
 
 ## 👥 Contributeurs
 
-Merci à toutes les personnes ayant contribué à ce projet !  
+Thanks to everyone who contributed to this project!
 
-- 👩‍💻[**Emma Eberle**](https://github.com/emmaebrl)   
-- 👩‍💻[**Sharon Chemmama**](https://github.com/jean-martin)  
-- 👩‍💻[**Lina Benzemma**](https://github.com/linabnz)  
+- [**Emma Eberle**](https://github.com/emmaebrl)   
+- [**Sharon Chemmama**](https://github.com/jean-martin)  
+- [**Lina Benzemma**](https://github.com/linabnz)  
