@@ -17,7 +17,7 @@ The objective is to improve forecasting accuracy by leveraging a complete end-to
 
 ## Installation
 
-### 🛠 Option 1: Clone the repository and run locally
+### Option 1: Clone the repository and run locally
 
 1. **Clone the repository**
    ```bash
